@@ -1,7 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using LojaVirtual.Author;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
 
 var builder = WebApplication.CreateBuilder(args);
 
